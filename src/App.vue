@@ -40,7 +40,6 @@ export default {
       this.selectedColor = e;
     },
     getPicked(e) {
-      console.log(e);
       this.pickedColor = e;
     },
     getMessage(e) {
